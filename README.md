@@ -1,6 +1,6 @@
 # Retro-CM3
 
-Yet another retropie build. 
+Yet another retropie console. 
 
 Build with Raspberry Pi Compute Module 3 Lite. As powerful as Rpi3B, but as small as Rpi 0.
 
