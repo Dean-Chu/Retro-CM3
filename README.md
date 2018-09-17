@@ -11,3 +11,5 @@ Support most of the emulators provided by retropie.
 Run PS1 N64 smoothly, able to run most 2D and some of 3D PSP games.
 
 Assamble video: https://www.bilibili.com/video/av24430157
+
+Flashable image： http://soft.nyko.moe/Game/RetroPie/CM3/retro-cm3v42-no-rom-v3.7z
